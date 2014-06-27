@@ -1,8 +1,0 @@
-*.pyc
-*.cache
-*.lock
-*.swp
-*.coverage
-*.cover
-app/app.egg-info/
-app/app.sqlite
