@@ -1,0 +1,15 @@
+{
+  "name": "msgpack-js",
+  "homepage": "https://github.com/creationix/msgpack-js",
+  "version": "0.3.0",
+  "_release": "0.3.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.3.0",
+    "commit": "b8da78e900882f7f8dc76c14cb7351b2a2b8e8f2"
+  },
+  "_source": "git://github.com/creationix/msgpack-js.git",
+  "_target": "~0.3.0",
+  "_originalSource": "msgpack-js",
+  "_direct": true
+}

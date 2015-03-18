@@ -1,0 +1,14 @@
+{
+  "name": "msgpack-javascript",
+  "homepage": "https://github.com/msgpack/msgpack-javascript",
+  "_release": "da6d906ce2",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "da6d906ce2241c41198a0c122ab24cfc6f09d319"
+  },
+  "_source": "git://github.com/msgpack/msgpack-javascript.git",
+  "_target": "*",
+  "_originalSource": "msgpack-javascript",
+  "_direct": true
+}
