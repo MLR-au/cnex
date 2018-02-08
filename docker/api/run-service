@@ -4,7 +4,7 @@ echo "Starting CNEX service in ${CNEX_ENV} mode."
 
 if [ "${CNEX_ENV}" == "development" ] ; then
     /usr/bin/python setup.py develop
-    pserve development.ini
+    pserve development.init --reload
 else
     /usr/bin/python setup.py install
     run /usr/local/bin/pserve production.ini

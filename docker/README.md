@@ -28,3 +28,10 @@ Ensure you have docker compose in your path then run:
 Obvisouly replace `{your-compose-file}.yml` with the fully qualified path
 to your compose file (copy mlarosa-compose.yml and customise volume mounts
 as required).
+
+## Stopping the containers and cleaning up
+
+```
+> docker-compose -f {your-compose-file}.yml stop
+> docker-compose -f {your-compose-file}.yml rm -f
+```
